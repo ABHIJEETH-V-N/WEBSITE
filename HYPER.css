@@ -9,8 +9,8 @@
 }
 body{
     background-color: rgb(23, 23, 23);
-    width: 100%;
-    font: optional;color: cyan;
+    width: 10em;
+    font: optional;color: rgb(255, 255, 255);
     position: absolute;
     border-top: 90px;
 }
@@ -43,7 +43,7 @@ H1{
     font-weight: bolder;
     padding: 20px;
     font-size: 30x;
-    color: cyan;
+    color: rgb(255, 255, 255);
     text-align: center;
     text-decoration: none;
     background: linear-gradient(180deg, #ffffff2c 0%, rgba(236, 236, 236, 0.167) 100%);
@@ -57,7 +57,7 @@ S1{
 a{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     font-weight: bolder;
-    color: cyan;
+    color: rgb(255, 255, 255);
     text-decoration:solid;
     font-size: 200%;
 }
@@ -78,6 +78,8 @@ a{
   text-shadow: 0 10px 100px cyan;
 }
 b{
+    position: absolute;
+    top:0px;
     font-size:200%;
     font-weight:1000; 
     text-transform: none;
@@ -94,14 +96,11 @@ b{
     width: 10px;
     text-align: center;
     text-decoration: none;
-    text-shadow: 0 0 20px cyan, 
-                     0 0 30px cyan, 
-                     0 0 40px cyan,
-                      0 0 50px cyan,
-                     0 0 60px cyan, 
-                     0 0 70px cyan,
-                      0 0 80px cyan;
-    
+    text-shadow: 0 0 20px white, 
+                     0 0 30px white,  
+                     0 0 70px white,
+                      0 0 80px white;
+
 
 
         
@@ -111,9 +110,6 @@ b{
   .fa:hover {
     opacity: 0.7;
   }
-
-
-
 
 
 
