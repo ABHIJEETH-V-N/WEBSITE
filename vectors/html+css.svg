@@ -1,0 +1,4 @@
+<svg width="150" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="75" y="60" font-family="Arial, Helvetica, sans-serif " font-size="30" text-anchor="middle" font-weight="bolder" fill="rgba(256,256,256,0.5)">HTML</text>
+  <text x="75" y="84" font-family="Arial, Helvetica, sans-serif " font-size="30" text-anchor="middle" font-weight="bolder" fill="rgba(256,256,256,0.5)">CSS</text>
+</svg>
